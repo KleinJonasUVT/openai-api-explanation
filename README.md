@@ -6,7 +6,7 @@ Welcome to a hands-on introduction to using the **OpenAI API**, explained throug
 - 🧾 **Waiter** = The API (OpenAI's messenger)
 - 👨‍🍳 **Chef** = The AI model (like GPT-4)
 
-![API Metaphor: Customer - Waiter - Chef](images/api-metaphor-diagram.png)
+![API Metaphor: Customer - Waiter - Chef](images/restaurant_analogy.png)
 
 > _You (the customer) make a request (order). The API (waiter) delivers it to the model (chef), who prepares the response and sends it back._
 
