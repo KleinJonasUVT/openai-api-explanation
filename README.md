@@ -12,8 +12,6 @@ Welcome to a hands-on introduction to using the **OpenAI API**, explained throug
 
 > _You (the customer) make a request (order). The API (waiter) delivers it to the model (chef), who prepares the response and sends it back._
 
----
-
 ## What's in This Repo?
 
 This repository contains Jupyter notebooks and example code to help you:
@@ -64,6 +62,4 @@ Never share your API key publicly! Use `.env` files and the `python-dotenv` pack
 
 * Educators wanting to use the API in their work
 * Students exploring AI
-
----
 
