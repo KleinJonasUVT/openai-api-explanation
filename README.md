@@ -6,7 +6,7 @@ Welcome to a hands-on introduction to using the **OpenAI API**, explained throug
 - 🧾 **Waiter** = The API (OpenAI's messenger)
 - 👨‍🍳 **Chef** = The AI model (like GPT-4)
 
-![API Metaphor: Customer - Waiter - Chef](images/restaurant_analogy.png)
+![API Metaphor: Customer - Waiter - Chef](images/restaurant_analogy.png){width=50%}
 
 > _You (the customer) make a request (order). The API (waiter) delivers it to the model (chef), who prepares the response and sends it back._
 
@@ -38,7 +38,7 @@ cd openai-api-examples
 pip install openai
 ```
 
-> You’ll also need [Jupyter](https://jupyter.org/) or [VS Code with Python extension](https://code.visualstudio.com/) to run notebooks.
+> You'll also need [Jupyter](https://jupyter.org/) or [VS Code with Python extension](https://code.visualstudio.com/) to run notebooks.
 
 ### 3. Set Your API Key
 
