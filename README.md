@@ -4,7 +4,7 @@
 
 ## Tutorial OpenAI API
 
-Welcome to the official repository for the **Tilburg.ai OpenAI API Workshop**, organized as part of Tilburg University's Research Infrastructure program. T
+Welcome to the official repository for the **Tilburg.ai OpenAI API Workshop**, organized as part of Tilburg University's Research Infrastructure program.
 
 ---
 
