@@ -1,6 +1,4 @@
-<img src="images/favicon.png" alt="Tilburg.ai logo" width="100"/> # Tilburg.ai OpenAI API Workshop 
-
-
+<h1><img src="images/favicon.png" alt="Tilburg.ai logo" width="50" style="vertical-align: middle;"/> Tilburg.ai OpenAI API Workshop</h1>
 
 ## Tutorial OpenAI API
 
