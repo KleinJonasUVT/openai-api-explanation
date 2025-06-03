@@ -1,4 +1,4 @@
-# Tilburg.ai OpenAI API Workshop <img src="images/favicon.png" alt="Tilburg.ai logo" width="100"/>
+<img src="images/favicon.png" alt="Tilburg.ai logo" width="100"/> # Tilburg.ai OpenAI API Workshop 
 
 
 
