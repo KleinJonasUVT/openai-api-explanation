@@ -32,13 +32,14 @@ By completing this workshop, participants will be able to:
 
 ## Repository Contents
 
+```bash
 ├── workshop_openai_api_python.ipynb # Main Python workshop notebook
 ├── workshop_openai_api_r.Rmd # R version of the workshop
 ├── images/ # Workshop diagrams and illustrations
 ├── audio/ # Generated audio examples
 ├── .env # Template for environment variables
 └── README.md
-
+```
 ---
 
 ## Prerequisites
